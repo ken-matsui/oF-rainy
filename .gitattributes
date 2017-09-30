@@ -22,3 +22,4 @@
 scripts/apothecary/**/*.patch -text
 
 *.make linguist-vendored
+Makefile linguist-vendored
